@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    FreeCodeGram
+                    FreeCodeGram2
                 </div>
 
                 <div class="links">
